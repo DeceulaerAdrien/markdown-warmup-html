@@ -5,24 +5,13 @@ body {
     margin:  0;
     padding: 40px;
 }
+img {
+    width: 300px;
+    display: flex;
+}
 ul {
     padding-left: 25px;
 }
 li{
     padding-top: 10px;
-}
-.Grey_surligne {
-    background-color: #2f333a;
-    border-radius: 5px;
-    padding: 2.72px 5.44px;
-    margin-left: 4px;
-    margin-right: 4px;
-}
-p {
-    margin-top: 0;
-    margin-bottom: 16px;
-}
-strong{
-    color: yellow;
-    font-size: large;
 }
